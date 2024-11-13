@@ -2,11 +2,16 @@
 This Yield Prediction project focuses on building machine learning models to forecast agricultural crop yield. The goal is to create predictive models that support farmers and agricultural professionals by providing accurate yield forecasts based on environmental and soil conditions.
 
 ## Table of Contents
-Overview
-Dataset
-Installation
-Usage
-Modeling Approach
+Overview,
+
+Dataset,
+
+Installation,
+
+Usage,
+
+Modeling Approach,
+
 Results
 
 
